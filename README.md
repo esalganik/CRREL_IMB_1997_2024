@@ -4,3 +4,5 @@ The buoy data from 1993-2015: Perovich et al., imb-crrel-dartmouth.org/archived-
 The buoy data from 2019-2024: www.cryosphereinnovation.com/data/;
 The original dataset: West (2020), doi.org/10.5281/zenodo.3773811;
 The colormaps: Crameri (2020), doi.org/10.1038/s41467-020-19160-7.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15096485.svg)](https://doi.org/10.5281/zenodo.15096485)
